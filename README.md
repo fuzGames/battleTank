@@ -1,2 +1,2 @@
-# battleTank
+# Battle Tank
 Unreal Course Battle Tank game
